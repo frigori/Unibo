@@ -1,4 +1,0 @@
-baseURL = 'http://frigori.github.io/UNIBO/'
-languageCode = 'it'
-title = 'UNIBO Dashboard'
-theme = 'ananke'
