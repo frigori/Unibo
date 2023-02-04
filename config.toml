@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://frigori.github.io/'
 languageCode = 'it'
 title = 'Unibo Dashboard'
 theme = "hugo-book"
