@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'it'
+title = 'Unibo Dashboard'
+theme = "hugo-book"
