@@ -1,7 +1,7 @@
 .DS_Store
+.hugo_build.lock
 # ignore ALL .log files
 *.log
 
 # ignore ALL files in ANY directory named temp
 temp/
-.hugo_build.lock
