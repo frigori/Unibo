@@ -1,3 +1,3 @@
 ---
-title: Anno 2
+title: Secondo anno
 ---
